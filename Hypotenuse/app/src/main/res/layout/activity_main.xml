@@ -89,6 +89,12 @@
         android:layout_marginTop="10dp"
         ></Button>
 "
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sireethorn Chalormrattanangkun 621310250"
+        android:textAlignment="center"
+        ></TextView>
 
 
 
